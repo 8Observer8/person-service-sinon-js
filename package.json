@@ -10,7 +10,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "cannon": "^0.6.2"
+  "devDependencies": {
+    "mocha": "^8.2.1",
+    "sinon": "^9.2.4"
   }
 }
